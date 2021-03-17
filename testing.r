@@ -11,3 +11,4 @@ AbuBakar = "Frist Caliph of Islam"
 
 print(AbuBakar)
 print("very loyal friend of Prophet Mohammad PBUH")
+print("very noble man")
